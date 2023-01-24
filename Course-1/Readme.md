@@ -21,5 +21,5 @@
   <h5>IP Packets</h5>
   <p>When the data is sent from the server to the device, that data is called as IP packet also known as data gram.</p>
   <h6>High level overview of IP packet</h6>
-  <img src="" alt="ip packet"/>
+  <img src="ip packet.png" alt="ip packet" width=50%/>
 </div>
