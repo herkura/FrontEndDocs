@@ -20,7 +20,7 @@
       <p>This has an <em>octet seperated by "."</em>. For eg: 192.0.0.235</p>
       <li>IPv6</li>
       <p>This contains <em>hexadecimal digits seperated by a colon</em>.</p>
-      <img src="https://user-images.githubusercontent.com/54028832/214229142-ccf7770a-b724-460e-8e83-9bb6b6b42443.png" alt=ipv6 align="center" />
+      <img src="https://user-images.githubusercontent.com/54028832/214232184-e3feffeb-f16f-4ec7-9167-6275bce21aae.png" alt=ipv6 align="center" />
       <h5>Image Source: Wikipedia</h5>
     </ol>
 </div>
