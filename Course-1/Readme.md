@@ -22,4 +22,20 @@
   <p>When the data is sent from the server to the device, that data is called as IP packet also known as data gram.</p>
   <h6>High level overview of IP packet</h6>
   <img src="ip packet.png" alt="ip packet" width=50%/>
+  <h5> Problems with IP packets</h5>
+  <h6><p><ol>
+    <li>They may be damaged or corrupt during transit.</li>
+    <li>Might arrive out of order.</li>
+    <li>Dropped or lost during transit.</li>
+    </ol></p></h6>
+   <h5>How to overcome these problems?</h5>
+   <h6>
+    <p>There are other protocols that solve these problems. The payload part of the IP packet has many other protocols.
+    The most common protocols are:
+    <ol>
+      <li>TCP <em>(Transmission Control Protocol)</em></li>
+      <li>UDP <em>(User Datagram Protocol)</em></li>
+    </ol>
+    </p>
+   </h6>
 </div>
