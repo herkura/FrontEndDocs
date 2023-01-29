@@ -40,6 +40,7 @@
         <p>UDP on the other hand solves the corrupt packet issue. However, IP packet can arrive out of order. In simple terms, this protocol is used for sending that data which can have some data loss such as a video stream, phone call.</p>
       </li>
     </ol>
+    The fun part is that these protocols contain payload which further has other protocols.
     </p>
    </h6>
 </div>
