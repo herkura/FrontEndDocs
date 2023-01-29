@@ -43,4 +43,13 @@
     The fun part is that these protocols contain payload which further has other protocols.
     </p>
    </h6>
+  <h6>The HTTP protocol</h6>
+  <h6><p>
+  A few pointers about HTTP:
+  <ul>
+    <li>It is a <em>Communication</em> Protocol.</li>
+    <li>It is responsible for tranferring the html files, images, and other types of files.</li>
+    <li>It is a request-response based protocol.</li>
+    
+  </ul></p></h6>
 </div>
