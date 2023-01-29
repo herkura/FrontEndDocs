@@ -50,6 +50,11 @@
     <li>It is a <em>Communication</em> Protocol.</li>
     <li>It is responsible for tranferring the html files, images, and other types of files.</li>
     <li>It is a request-response based protocol.</li>
-    
+    <li>HTTP Methods:
+      <ul><li> GET-> Retrieve data server.</li>
+      <li> POST-> Send data to the server. </li>
+      <li>PUT-> Update any info currently on the webserver with something else.</li>
+      <li>DELETE-> Removes the resource.</li></ul>
+    </li>
   </ul></p></h6>
 </div>
