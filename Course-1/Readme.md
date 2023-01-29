@@ -33,8 +33,12 @@
     <p>There are other protocols that solve these problems. The payload part of the IP packet has many other protocols.
     The most common protocols are:
     <ol>
-      <li>TCP <em>(Transmission Control Protocol)</em></li>
-      <li>UDP <em>(User Datagram Protocol)</em></li>
+      <li>TCP <em>(Transmission Control Protocol)</em>:
+        <p>TCP solves all the 3 above mentioned problems with a small delay. This protocol is used for sending data correctly and in order such as text or an image.</p>
+      </li>
+      <li>UDP <em>(User Datagram Protocol)</em>:
+        <p>UDP on the other hand solves the corrupt packet issue. However, IP packet can arrive out of order. In simple terms, this protocol is used for sending that data which can have some data loss such as a video stream, phone call.</p>
+      </li>
     </ol>
     </p>
    </h6>
