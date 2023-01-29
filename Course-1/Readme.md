@@ -60,8 +60,8 @@
   <h5>Make up of a HTTP request</h5>
   <h6>
   <p>Eg of a HTTP response:</p>
-  
-  
-
+  <img src="http structure.png" alt="http make-up eg"/>
   </h6>
+</div>
+<div id="topic3">
 </div>
