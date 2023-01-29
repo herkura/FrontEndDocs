@@ -57,4 +57,11 @@
       <li>DELETE-> Removes the resource.</li></ul>
     </li>
   </ul></p></h6>
+  <h5>Make up of a HTTP request</h5>
+  <h6>
+  <p>Eg of a HTTP response:</p>
+  
+  
+
+  </h6>
 </div>
