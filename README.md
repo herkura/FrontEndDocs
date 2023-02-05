@@ -6,7 +6,7 @@
 <div id="courselist">
   <h2>Courses</h2>
   <ul>
-    <li><a href="https://github.com/herkura/FrontEndDocs/tree/topic-1/Course-1">Course-1</li>
+    <li><a href="https://github.com/herkura/FrontEndDocs/tree/main/Course-1">Course-1</li>
     <li><a href="https://github.com/herkura/FrontEndDocs/tree/main/Course-2">Course-2</li>
     <em>Rest Coming Soon!</em>
   </ul>
