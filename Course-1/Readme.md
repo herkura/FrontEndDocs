@@ -64,4 +64,16 @@
   </h6>
 </div>
 <div id="topic3">
+<h5>Status Code</h5>
+<h6>Ranges from 100 to 599</h6>
+<h6><p>
+5 groups of status code:
+<ul>
+<li>Informational ----> 100 - 199</li>
+<li>Successful ----> 200 - 299</li>
+<li>Redirection ----> 300 - 399</li>
+<li>Client Error ----> 400 - 499</li>
+<li>Server Error ----> 500 - 599</li>
+</ul>
+</p></h6>
 </div>
