@@ -77,3 +77,23 @@
 </ul>
 </p></h6>
 </div>
+<div id="topic4">
+  <h5>Liberaries and Frameworks</h5>
+  <p>Here I will explain these 2 with a table for better understanding.</p>
+  <table>
+    <tr>
+      <td>Liberary</td>
+      <td>
+        <ul>
+          <li>Re-usable code</li>
+          <li>Specific functionality</li>
+          <li>Time Saving</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Framework</td>
+      <td><p>These are structures upon which the devs add their code for more functionality.</p></td>
+    </tr>
+  </table>
+</div>
