@@ -4,5 +4,10 @@
 </div>
 <div id="practice">
 <ol>
-  <h6><li><a href="helloWorld.html">Hello World in HTML</a></li></h6>
+  <h6>
+    <li><a href="helloWorld.html">Hello World in HTML</a></li>
+    <li><a href="headings.html">Headings in HTML</a></li>
+  
+  
+  </h6>
 </div>
