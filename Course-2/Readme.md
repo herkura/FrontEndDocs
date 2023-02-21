@@ -7,5 +7,6 @@
   <h6>
     <li><a href="helloWorld.html">Hello World in HTML</a></li>
     <li><a href="headings.html">Headings in HTML</a></li>
+    <li><a href="tables.html">Tables in HTML</a></li>
   </h6></ol>
 </div>
