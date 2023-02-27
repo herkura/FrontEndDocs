@@ -9,5 +9,6 @@
     <li><a href="headings.html">Headings in HTML</a></li>
     <li><a href="tables.html">Tables in HTML</a></li>
     <li><a href ="someTagstoKnow.html">Some other tags as well</a></li>
+    <li><a href ="forms.html">Forms in HTML</a></li>
   </h6></ol>
 </div>
